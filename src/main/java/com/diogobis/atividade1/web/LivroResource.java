@@ -24,7 +24,7 @@ import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 
 @RestController
-@RequestMapping("/jogos")
+@RequestMapping("/livros")
 public class LivroResource {
     private final Logger log = LoggerFactory.getLogger(LivroResource.class);
 
