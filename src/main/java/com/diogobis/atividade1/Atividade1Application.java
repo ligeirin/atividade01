@@ -1,7 +1,5 @@
 package com.diogobis.atividade1;
 
-import com.diogobis.atividade1.domain.Usuario;
-
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
